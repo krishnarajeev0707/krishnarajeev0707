@@ -17,7 +17,7 @@ Looking to learn and expand my tech skills.<br>
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=krishnarajeev0707&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=krishnarajeev0707&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=krishnarajeev0707&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=krishnarajeev0707&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 <br>
